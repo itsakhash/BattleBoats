@@ -10,7 +10,7 @@
  * so this file behaves the same whether linked against
  * Field_correct.o or the partner's real Field.c.
  *
- * @author  Akhash Arjundas
+ * @author  Akhash Arjundayal (aarjunda)
  */
 #include <stdio.h>
 #include <stdlib.h>
